@@ -1,0 +1,206 @@
+{
+  "symbol": "RELIANCE",
+  "company_name": "Reliance Industries Limited",
+  "sector": "Diversified / Oil & Gas",
+  "source": "sample",
+  "periods": [
+    {
+      "period": "Mar 2024",
+      "revenue": 966382.0,
+      "net_profit": 79020.0,
+      "operating_profit": 149230.0,
+      "operating_cash_flow": 112450.0,
+      "total_assets": 1598760.0,
+      "total_liabilities": 892340.0,
+      "total_equity": 706420.0,
+      "total_debt": 312450.0,
+      "current_assets": 345670.0,
+      "current_liabilities": 398120.0,
+      "inventory": 78920.0,
+      "gross_profit": 235670.0
+    },
+    {
+      "period": "Mar 2023",
+      "revenue": 897162.0,
+      "net_profit": 73670.0,
+      "operating_profit": 138760.0,
+      "operating_cash_flow": 98230.0,
+      "total_assets": 1468530.0,
+      "total_liabilities": 825670.0,
+      "total_equity": 642860.0,
+      "total_debt": 298670.0,
+      "current_assets": 312450.0,
+      "current_liabilities": 367890.0,
+      "inventory": 85340.0,
+      "gross_profit": 218450.0
+    },
+    {
+      "period": "Mar 2022",
+      "revenue": 721634.0,
+      "net_profit": 67845.0,
+      "operating_profit": 115890.0,
+      "operating_cash_flow": 85670.0,
+      "total_assets": 1350670.0,
+      "total_liabilities": 768430.0,
+      "total_equity": 582240.0,
+      "total_debt": 278900.0,
+      "current_assets": 289340.0,
+      "current_liabilities": 335670.0,
+      "inventory": 72560.0,
+      "gross_profit": 189450.0
+    },
+    {
+      "period": "Mar 2021",
+      "revenue": 539238.0,
+      "net_profit": 53739.0,
+      "operating_profit": 96540.0,
+      "operating_cash_flow": 78450.0,
+      "total_assets": 1230450.0,
+      "total_liabilities": 689230.0,
+      "total_equity": 541220.0,
+      "total_debt": 257800.0,
+      "current_assets": 267890.0,
+      "current_liabilities": 312340.0,
+      "inventory": 56780.0,
+      "gross_profit": 156780.0
+    },
+    {
+      "period": "Mar 2020",
+      "revenue": 611683.0,
+      "net_profit": 39880.0,
+      "operating_profit": 82310.0,
+      "operating_cash_flow": 68920.0,
+      "total_assets": 1145670.0,
+      "total_liabilities": 678450.0,
+      "total_equity": 467220.0,
+      "total_debt": 336740.0,
+      "current_assets": 245670.0,
+      "current_liabilities": 298450.0,
+      "inventory": 63450.0,
+      "gross_profit": 142890.0
+    }
+  ],
+  "raw_tables": {
+    "P&L": {
+      "headers": ["Mar 2024", "Mar 2023", "Mar 2022", "Mar 2021", "Mar 2020"],
+      "rows": {
+        "Sales": [966382.0, 897162.0, 721634.0, 539238.0, 611683.0],
+        "Operating Profit": [149230.0, 138760.0, 115890.0, 96540.0, 82310.0],
+        "OPM %": [15.4, 15.5, 16.1, 17.9, 13.5],
+        "Other Income": [18920.0, 16780.0, 14560.0, 12340.0, 11230.0],
+        "Interest": [24560.0, 22340.0, 19870.0, 21450.0, 25670.0],
+        "Depreciation": [38920.0, 35670.0, 32450.0, 28930.0, 26780.0],
+        "Profit before tax": [104670.0, 97530.0, 78130.0, 58500.0, 41090.0],
+        "Tax %": [24.5, 24.5, 13.2, 8.1, 3.0],
+        "Net Profit": [79020.0, 73670.0, 67845.0, 53739.0, 39880.0],
+        "EPS in Rs": [116.8, 108.9, 100.3, 79.5, 62.8]
+      }
+    },
+    "BalanceSheet": {
+      "headers": ["Mar 2024", "Mar 2023", "Mar 2022", "Mar 2021", "Mar 2020"],
+      "rows": {
+        "Share Capital": [6766.0, 6766.0, 6765.0, 6339.0, 6339.0],
+        "Reserves": [699654.0, 636094.0, 575475.0, 534881.0, 460881.0],
+        "Borrowings": [312450.0, 298670.0, 278900.0, 257800.0, 336740.0],
+        "Total Current Liabilities": [398120.0, 367890.0, 335670.0, 312340.0, 298450.0],
+        "Total Assets": [1598760.0, 1468530.0, 1350670.0, 1230450.0, 1145670.0],
+        "Total Current Assets": [345670.0, 312450.0, 289340.0, 267890.0, 245670.0],
+        "Inventories": [78920.0, 85340.0, 72560.0, 56780.0, 63450.0],
+        "Fixed Assets": [812340.0, 745670.0, 689340.0, 634560.0, 578900.0]
+      }
+    },
+    "CashFlow": {
+      "headers": ["Mar 2024", "Mar 2023", "Mar 2022", "Mar 2021", "Mar 2020"],
+      "rows": {
+        "Cash from Operating Activity": [112450.0, 98230.0, 85670.0, 78450.0, 68920.0],
+        "Cash from Investing Activity": [-98560.0, -89340.0, -76540.0, -67890.0, -78450.0],
+        "Cash from Financing Activity": [-12340.0, -8920.0, -9120.0, -5670.0, 12340.0],
+        "Net Cash Flow": [1550.0, -30.0, 10.0, 4890.0, 2810.0]
+      }
+    }
+  },
+  "filings": [
+    {
+      "date": "2024-04-22",
+      "title": "Reliance Industries Q4 FY2024 Results - Revenue ₹2,36,584 Cr, Net Profit ₹21,243 Cr",
+      "category": "Financial Results",
+      "content_text": "Reliance Industries Limited reported Q4 FY2024 consolidated revenue of ₹2,36,584 crore. Net profit stood at ₹21,243 crore, up 11.8% YoY. Jio Platforms revenue grew 10.2% to ₹29,120 crore. Retail revenue grew 18.5% to ₹78,645 crore. O2C segment EBITDA was ₹15,640 crore. The company announced capex of ₹52,000 crore for new energy initiatives. Exceptional items of ₹1,240 crore were recorded related to asset write-downs in exploration block.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    },
+    {
+      "date": "2024-01-19",
+      "title": "Reliance Q3 FY2024 Results - Jio subscriber base crosses 470 million",
+      "category": "Financial Results",
+      "content_text": "RIL Q3 FY2024 consolidated revenue came at ₹2,43,870 crore. Jio subscriber base crossed 470 million with ARPU of ₹181.7. Retail business operated 18,774 stores across India. O2C segment margins were impacted by lower refining spreads. Digital services EBITDA grew 14.5% YoY to ₹6,240 crore. Exceptional charge of ₹890 crore towards impairment of overseas retail investments was recorded.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    },
+    {
+      "date": "2023-08-28",
+      "title": "Reliance AGM 2023 - Major Announcements on AI, New Energy, and Jio Financial Services",
+      "category": "Corporate Announcement",
+      "content_text": "At the 46th AGM, Chairman Mukesh Ambani announced RIL's aggressive push into generative AI, with Jio developing India's own foundational large language model. The company committed ₹75,000 crore capex over 5 years for new energy business (solar, hydrogen, battery). Jio Financial Services demerger was completed. RIL's net debt stood at zero for the third consecutive year when excluding Jio Financial Services. Reliance Retail aims to reach 25,000 stores by 2025.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    },
+    {
+      "date": "2024-03-05",
+      "title": "Reliance Retail to acquire Metros Cash & Carry business for ₹2,850 crore",
+      "category": "Corporate Announcement",
+      "content_text": "Reliance Retail Ventures announced the acquisition of Metro AG's India Cash & Carry business for ₹2,850 crore. The acquisition adds 31 stores across 21 cities to Reliance Retail's wholesale operations. The deal includes Metro India's B2B operations, warehousing infrastructure, and a base of approximately 3 million registered customers. The acquisition is expected to be completed within 90 days subject to regulatory approvals.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    },
+    {
+      "date": "2024-02-15",
+      "title": "Reliance New Energy invests $50M in sodium-ion battery technology startup",
+      "category": "Corporate Announcement",
+      "content_text": "Reliance New Energy Limited has invested $50 million in Faradion, a UK-based sodium-ion battery technology company, acquiring a 100% stake. Sodium-ion batteries are seen as a more sustainable and cost-effective alternative to lithium-ion for grid-scale energy storage. This investment aligns with RIL's stated goal of becoming a leading new energy company by 2030. The technology will be commercialized at Reliance's upcoming giga-factory in Jamnagar, Gujarat.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    }
+  ],
+  "news": [
+    {
+      "title": "Reliance Industries Q4 profit rises 12% to ₹21,243 crore on Jio, Retail strength",
+      "description": "RIL reported a 12% year-on-year rise in Q4 FY2024 net profit, driven by strong performance in digital services and retail segments despite soft O2C margins.",
+      "source_name": "Economic Times",
+      "published_at": "2024-04-22T16:00:00Z",
+      "content": "Reliance Industries reported Q4 FY2024 consolidated net profit of ₹21,243 crore, up 11.8% YoY. Jio Platforms delivered strong subscriber additions, crossing 470 million. Retail revenue grew 18.5%. However, the O2C segment saw margin pressure with GRMs declining to $8.2 per barrel from $10.1 in the year-ago quarter. The company recorded exceptional items of ₹1,240 crore. For full-year FY2024, revenue was ₹9,66,382 crore and net profit ₹79,020 crore.",
+      "url": "https://economictimes.indiatimes.com/reliance-q4"
+    },
+    {
+      "title": "Reliance Retail becomes India's largest retailer with 18,000+ stores",
+      "description": "Reliance Retail has surpassed 18,000 stores across India, cementing its position as the country's largest organized retailer.",
+      "source_name": "Moneycontrol",
+      "published_at": "2024-02-10T09:30:00Z",
+      "content": "Reliance Retail now operates over 18,774 stores spanning grocery, electronics, fashion, and pharma segments. Revenue for 9M FY2024 crossed ₹2.1 lakh crore. The company aims to reach 25,000 stores by end of CY2025. Footfall across formats increased 22% YoY. Quick commerce and JioMart saw 45% growth in orders. However, operating margins in retail dipped slightly from 7.8% to 7.4% due to aggressive expansion costs and promotional spending.",
+      "url": "https://www.moneycontrol.com/reliance-retail"
+    },
+    {
+      "title": "Jio Financial Services: RBI grants NBFC license, launches first product",
+      "description": "Post-demerger from RIL, Jio Financial Services has received its NBFC license from RBI and launched its first consumer lending product.",
+      "source_name": "Business Standard",
+      "published_at": "2024-03-18T11:00:00Z",
+      "content": "Jio Financial Services (JFS), which was demerged from Reliance Industries in August 2023, has received its NBFC license from RBI. The company has launched JioFinance app offering digital savings accounts, personal loans, and mutual fund investments. JFS has partnered with BlackRock for asset management and with SBI for banking products. The company targets reaching 100 million financial services customers within 3 years, leveraging Jio's 470 million telecom subscriber base.",
+      "url": "https://www.business-standard.com/jio-financial"
+    },
+    {
+      "title": "Reliance's O2C margins under pressure as global refining spreads decline",
+      "description": "Reliance's oil-to-chemicals business faces headwinds from declining global refining margins, impacting overall profitability in H2 FY2024.",
+      "source_name": "Reuters",
+      "published_at": "2024-01-25T08:00:00Z",
+      "content": "Reliance Industries' Oil-to-Chemicals (O2C) segment is facing margin compression as global refining spreads have declined sharply from the highs seen in FY2023. Singapore GRMs fell to $5.8/bbl in January 2024 from $8.5/bbl a year ago. Petrochemical margins also remain subdued due to new Chinese capacity additions. Analysts expect O2C EBITDA to decline 12-15% in FY2025. However, this is partially offset by strong growth in Jio and Retail segments which now contribute over 50% of consolidated EBITDA.",
+      "url": "https://www.reuters.com/reliance-o2c"
+    },
+    {
+      "title": "Mukesh Ambani outlines Reliance's green energy roadmap at COP28",
+      "description": "At COP28, RIL chairman Mukesh Ambani announced accelerated investments in solar, green hydrogen, and battery storage.",
+      "source_name": "Livemint",
+      "published_at": "2024-01-05T13:00:00Z",
+      "content": "At COP28 in Dubai, Reliance Industries chairman Mukesh Ambani unveiled an accelerated green energy roadmap. RIL plans to invest ₹75,000 crore over the next 5 years in new energy — including a 10 GW solar cell/module manufacturing facility in Jamnagar, green hydrogen production targeting 1 MTPA by 2030, and advanced battery storage with sodium-ion technology. The Dhirubhai Ambani Green Energy Giga Complex in Jamnagar spans 5,000 acres. Ambani stated RIL aims to achieve net-zero by 2035.",
+      "url": "https://www.livemint.com/reliance-cop28"
+    }
+  ]
+}

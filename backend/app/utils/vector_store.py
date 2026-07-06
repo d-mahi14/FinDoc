@@ -2,7 +2,7 @@
 ChromaDB vector store wrapper for indexing and querying document chunks.
 Uses sentence-transformers for embeddings, PersistentClient for storage.
 """
-
+from __future__ import annotations 
 import os
 from typing import Any
 

@@ -1,0 +1,221 @@
+{
+  "symbol": "TCS",
+  "company_name": "Tata Consultancy Services Limited",
+  "sector": "Information Technology",
+  "source": "sample",
+  "periods": [
+    {
+      "period": "Mar 2024",
+      "revenue": 240893.0,
+      "net_profit": 46099.0,
+      "operating_profit": 60820.0,
+      "operating_cash_flow": 52430.0,
+      "total_assets": 148560.0,
+      "total_liabilities": 62340.0,
+      "total_equity": 86220.0,
+      "total_debt": 1250.0,
+      "current_assets": 72480.0,
+      "current_liabilities": 49620.0,
+      "inventory": null,
+      "gross_profit": 73510.0
+    },
+    {
+      "period": "Mar 2023",
+      "revenue": 225458.0,
+      "net_profit": 42147.0,
+      "operating_profit": 56890.0,
+      "operating_cash_flow": 49200.0,
+      "total_assets": 138420.0,
+      "total_liabilities": 57890.0,
+      "total_equity": 80530.0,
+      "total_debt": 1180.0,
+      "current_assets": 67230.0,
+      "current_liabilities": 46150.0,
+      "inventory": null,
+      "gross_profit": 68750.0
+    },
+    {
+      "period": "Mar 2022",
+      "revenue": 191754.0,
+      "net_profit": 38327.0,
+      "operating_profit": 49850.0,
+      "operating_cash_flow": 44560.0,
+      "total_assets": 126780.0,
+      "total_liabilities": 51230.0,
+      "total_equity": 75550.0,
+      "total_debt": 980.0,
+      "current_assets": 61450.0,
+      "current_liabilities": 41200.0,
+      "inventory": null,
+      "gross_profit": 59100.0
+    },
+    {
+      "period": "Mar 2021",
+      "revenue": 164177.0,
+      "net_profit": 32430.0,
+      "operating_profit": 42170.0,
+      "operating_cash_flow": 40280.0,
+      "total_assets": 113560.0,
+      "total_liabilities": 44670.0,
+      "total_equity": 68890.0,
+      "total_debt": 870.0,
+      "current_assets": 55320.0,
+      "current_liabilities": 36580.0,
+      "inventory": null,
+      "gross_profit": 50680.0
+    },
+    {
+      "period": "Mar 2020",
+      "revenue": 156949.0,
+      "net_profit": 32340.0,
+      "operating_profit": 40780.0,
+      "operating_cash_flow": 36890.0,
+      "total_assets": 105430.0,
+      "total_liabilities": 41250.0,
+      "total_equity": 64180.0,
+      "total_debt": 760.0,
+      "current_assets": 50890.0,
+      "current_liabilities": 33470.0,
+      "inventory": null,
+      "gross_profit": 48120.0
+    }
+  ],
+  "raw_tables": {
+    "P&L": {
+      "headers": ["Mar 2024", "Mar 2023", "Mar 2022", "Mar 2021", "Mar 2020"],
+      "rows": {
+        "Sales": [240893.0, 225458.0, 191754.0, 164177.0, 156949.0],
+        "Operating Profit": [60820.0, 56890.0, 49850.0, 42170.0, 40780.0],
+        "OPM %": [25.2, 25.2, 26.0, 25.7, 26.0],
+        "Other Income": [5120.0, 4890.0, 3980.0, 3450.0, 3120.0],
+        "Interest": [1340.0, 1250.0, 1080.0, 940.0, 860.0],
+        "Depreciation": [7890.0, 7120.0, 6350.0, 5680.0, 5210.0],
+        "Profit before tax": [56710.0, 53410.0, 46400.0, 39000.0, 37830.0],
+        "Tax %": [25.6, 25.4, 25.3, 25.2, 25.5],
+        "Net Profit": [46099.0, 42147.0, 38327.0, 32430.0, 32340.0],
+        "EPS in Rs": [126.5, 115.7, 105.1, 89.0, 88.7]
+      }
+    },
+    "BalanceSheet": {
+      "headers": ["Mar 2024", "Mar 2023", "Mar 2022", "Mar 2021", "Mar 2020"],
+      "rows": {
+        "Share Capital": [365.0, 366.0, 366.0, 375.0, 375.0],
+        "Reserves": [85855.0, 80164.0, 75184.0, 68515.0, 63805.0],
+        "Borrowings": [1250.0, 1180.0, 980.0, 870.0, 760.0],
+        "Total Current Liabilities": [49620.0, 46150.0, 41200.0, 36580.0, 33470.0],
+        "Total Assets": [148560.0, 138420.0, 126780.0, 113560.0, 105430.0],
+        "Total Current Assets": [72480.0, 67230.0, 61450.0, 55320.0, 50890.0],
+        "Fixed Assets": [38920.0, 35670.0, 32450.0, 28930.0, 26780.0]
+      }
+    },
+    "CashFlow": {
+      "headers": ["Mar 2024", "Mar 2023", "Mar 2022", "Mar 2021", "Mar 2020"],
+      "rows": {
+        "Cash from Operating Activity": [52430.0, 49200.0, 44560.0, 40280.0, 36890.0],
+        "Cash from Investing Activity": [-18920.0, -16780.0, -14560.0, -12340.0, -11230.0],
+        "Cash from Financing Activity": [-34560.0, -31450.0, -28760.0, -25430.0, -23890.0],
+        "Net Cash Flow": [-1050.0, 970.0, 1240.0, 2510.0, 1770.0]
+      }
+    }
+  },
+  "filings": [
+    {
+      "date": "2024-04-12",
+      "title": "TCS Q4 FY2024 Results - Revenue ₹61,237 Cr, Net Profit ₹12,434 Cr",
+      "category": "Financial Results",
+      "content_text": "Tata Consultancy Services reported Q4 FY2024 consolidated revenue of ₹61,237 crore, a growth of 4.4% YoY. Net profit came at ₹12,434 crore, up 9.1% YoY. Operating margin stood at 26.0%. The board declared a final dividend of ₹28 per share. BFSI vertical grew 2.8% while retail grew 5.1%. Management highlighted strong deal momentum with TCV of $13.2 billion for FY2024.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    },
+    {
+      "date": "2024-01-11",
+      "title": "TCS Q3 FY2024 Results - Steady Performance Amid Global Macro Headwinds",
+      "category": "Financial Results",
+      "content_text": "TCS reported Q3 FY2024 revenue of ₹60,583 crore, up 4.0% YoY. Net profit at ₹11,735 crore, up 7.1% YoY. Attrition rate declined further to 12.5%. Total contract value (TCV) of new deals signed was $8.1 billion in Q3. IT services headcount stood at 6,03,305. Cloud & digital revenue contribution increased to 37% of total revenue. Management sees gradual recovery in discretionary spending.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    },
+    {
+      "date": "2023-10-11",
+      "title": "TCS Q2 FY2024 Quarterly Results - Beats Street Estimates",
+      "category": "Financial Results",
+      "content_text": "TCS reported Q2 FY2024 consolidated revenue of ₹59,692 crore, up 8.7% YoY in constant currency terms. Net profit stood at ₹11,342 crore. Deal wins remained robust with Q2 TCV of $11.2 billion, led by mega-deals in BFSI and manufacturing sectors. Operating margin expanded 40bps sequentially to 25.4%. The company also announced a share buyback program of ₹17,000 crore.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    },
+    {
+      "date": "2024-03-15",
+      "title": "TCS announces strategic partnership with Microsoft for generative AI solutions",
+      "category": "Corporate Announcement",
+      "content_text": "TCS announced a strategic partnership with Microsoft to co-develop industry-specific generative AI solutions. The partnership focuses on BFSI, healthcare, and manufacturing verticals. TCS will leverage Azure OpenAI services integrated with its proprietary platforms. The collaboration aims to accelerate enterprise AI adoption across TCS's global client base of 1000+ enterprises.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    },
+    {
+      "date": "2024-02-20",
+      "title": "TCS rated 'Overweight' by Morgan Stanley - Target Price ₹4,450",
+      "category": "Analyst Report",
+      "content_text": "Morgan Stanley upgraded TCS to 'Overweight' with a revised target price of ₹4,450, citing strong deal momentum and improving margin trajectory. The report noted TCS's superior execution track record, consistent free cash flow generation, and leadership position in cloud transformation deals. Key risks flagged include visa policy changes and client concentration in top-10 accounts which contribute approximately 35% of revenue.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    },
+    {
+      "date": "2023-12-05",
+      "title": "TCS wins $2.6 billion mega-deal from BSNL for 4G/5G network rollout",
+      "category": "Corporate Announcement",
+      "content_text": "TCS, as part of a consortium, won a mega-deal worth approximately $2.6 billion from Bharat Sanchar Nigam Limited (BSNL) for the deployment of 4G/5G core network across India. The project spans multiple phases over 3-5 years. This is one of the largest telecom deals in India's history. TCS's Network Solutions unit will lead the core network deployment leveraging indigenous 4G/5G technology.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    }
+  ],
+  "news": [
+    {
+      "title": "TCS Q4 results: Net profit rises 9% YoY to ₹12,434 crore, revenue grows 4.4%",
+      "description": "Tata Consultancy Services (TCS) on Friday reported a 9.1% year-on-year rise in consolidated net profit at ₹12,434 crore for Q4 FY2024. Revenue from operations came in at ₹61,237 crore, up 4.4% YoY.",
+      "source_name": "Economic Times",
+      "published_at": "2024-04-12T14:30:00Z",
+      "content": "TCS posted its Q4 FY2024 results with net profit of ₹12,434 crore, up 9.1% year-on-year. Revenue stood at ₹61,237 crore. For the full year FY2024, revenue reached ₹240,893 crore with net profit of ₹46,099 crore. Operating margin for Q4 was at 26.0%. The board recommended a final dividend of ₹28 per share. Management highlighted strong deal pipeline and improving demand environment. BFSI and retail verticals showed recovery while manufacturing remained a strong growth driver.",
+      "url": "https://economictimes.indiatimes.com/tcs-q4"
+    },
+    {
+      "title": "TCS attrition rate drops to 12.5%, lowest in 3 years",
+      "description": "TCS has managed to bring down its attrition rate significantly to 12.5% in Q3 FY2024, the lowest in three years, as the IT major intensified retention efforts.",
+      "source_name": "Moneycontrol",
+      "published_at": "2024-01-15T10:00:00Z",
+      "content": "TCS attrition rate fell to 12.5% in Q3 FY2024, down from 21% peak in Q3 FY2023. The company added 692 net employees during Q3 FY2024, taking total headcount to 6,03,305. HR leadership attributed the decline to improved employee engagement programs, competitive compensation revisions, and better work-life balance policies including a hybrid work model.",
+      "url": "https://www.moneycontrol.com/tcs-attrition"
+    },
+    {
+      "title": "TCS share buyback: ₹17,000 crore program at ₹4,150 per share",
+      "description": "TCS board has approved a share buyback program worth ₹17,000 crore at a price of ₹4,150 per share through the tender offer route.",
+      "source_name": "Livemint",
+      "published_at": "2024-01-12T08:15:00Z",
+      "content": "TCS announced its sixth buyback program of ₹17,000 crore at ₹4,150 per share. This follows buybacks in 2017 (₹16,000 Cr), 2018 (₹16,000 Cr), 2020 (₹16,000 Cr), 2022 (₹18,000 Cr). The company has consistently returned surplus cash to shareholders. As of September 2023, TCS had cash and investments of approximately ₹47,000 crore. The buyback is expected to be completed by March 2024.",
+      "url": "https://www.livemint.com/tcs-buyback"
+    },
+    {
+      "title": "TCS and Google Cloud partner to drive enterprise AI transformation",
+      "description": "TCS has expanded its partnership with Google Cloud to jointly develop industry-specific AI solutions powered by Google's Vertex AI and Gemini models.",
+      "source_name": "Business Standard",
+      "published_at": "2024-03-05T11:30:00Z",
+      "content": "TCS has expanded its strategic partnership with Google Cloud to co-create generative AI solutions for enterprise clients. The partnership will leverage Google's Vertex AI platform and Gemini large language models. TCS plans to train 50,000 associates on Google Cloud and AI technologies by 2025. Key focus areas include intelligent automation in banking operations, AI-driven supply chain optimization, and personalized customer experiences in retail.",
+      "url": "https://www.business-standard.com/tcs-google-cloud"
+    },
+    {
+      "title": "India's IT sector outlook: TCS, Infosys lead recovery as deal pipelines strengthen",
+      "description": "Analysts see the Indian IT sector recovering in H2 FY2025 with TCS and Infosys leading the charge on the back of large deal wins and improving demand.",
+      "source_name": "Reuters",
+      "published_at": "2024-02-28T09:00:00Z",
+      "content": "Industry analysts project that the Indian IT sector will see a recovery in the second half of FY2025, with TCS and Infosys leading the charge. TCS's total contract value (TCV) of $13.2 billion for FY2024 represents a 15% increase over FY2023. Key growth drivers include cloud migration, cybersecurity, and generative AI adoption. However, challenges remain in the form of slower discretionary spending in North America and Europe. TCS management has guided for 'mid-single-digit' revenue growth in constant currency terms for FY2025.",
+      "url": "https://www.reuters.com/it-sector-outlook"
+    },
+    {
+      "title": "TCS recognized as a Leader in Gartner Magic Quadrant for IT Services",
+      "description": "TCS has been positioned as a Leader in the 2024 Gartner Magic Quadrant for IT Services for the ninth consecutive year.",
+      "source_name": "NDTV Profit",
+      "published_at": "2024-03-20T14:00:00Z",
+      "content": "TCS has been recognized as a Leader in the 2024 Gartner Magic Quadrant for Custom Software Development Services for the ninth consecutive year. The report highlighted TCS's strengths in delivery execution, domain expertise across BFSI and manufacturing, and investment in proprietary platforms like ignio and COIN. TCS serves over 1,000 clients across 46 countries. The company's focus on Machine First delivery method and agile practices was specifically cited as a competitive advantage.",
+      "url": "https://www.ndtvprofit.com/tcs-gartner"
+    }
+  ]
+}

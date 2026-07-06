@@ -1,0 +1,205 @@
+{
+  "symbol": "INFY",
+  "company_name": "Infosys Limited",
+  "sector": "Information Technology",
+  "source": "sample",
+  "periods": [
+    {
+      "period": "Mar 2024",
+      "revenue": 153670.0,
+      "net_profit": 26233.0,
+      "operating_profit": 32890.0,
+      "operating_cash_flow": 28450.0,
+      "total_assets": 112340.0,
+      "total_liabilities": 47890.0,
+      "total_equity": 64450.0,
+      "total_debt": 3240.0,
+      "current_assets": 52340.0,
+      "current_liabilities": 36780.0,
+      "inventory": null,
+      "gross_profit": 49670.0
+    },
+    {
+      "period": "Mar 2023",
+      "revenue": 146767.0,
+      "net_profit": 24108.0,
+      "operating_profit": 30120.0,
+      "operating_cash_flow": 25670.0,
+      "total_assets": 104560.0,
+      "total_liabilities": 44230.0,
+      "total_equity": 60330.0,
+      "total_debt": 2890.0,
+      "current_assets": 48670.0,
+      "current_liabilities": 33450.0,
+      "inventory": null,
+      "gross_profit": 46230.0
+    },
+    {
+      "period": "Mar 2022",
+      "revenue": 121641.0,
+      "net_profit": 22110.0,
+      "operating_profit": 27450.0,
+      "operating_cash_flow": 22890.0,
+      "total_assets": 95670.0,
+      "total_liabilities": 39450.0,
+      "total_equity": 56220.0,
+      "total_debt": 2450.0,
+      "current_assets": 43560.0,
+      "current_liabilities": 30120.0,
+      "inventory": null,
+      "gross_profit": 39780.0
+    },
+    {
+      "period": "Mar 2021",
+      "revenue": 100472.0,
+      "net_profit": 19351.0,
+      "operating_profit": 25120.0,
+      "operating_cash_flow": 21340.0,
+      "total_assets": 86450.0,
+      "total_liabilities": 33670.0,
+      "total_equity": 52780.0,
+      "total_debt": 1980.0,
+      "current_assets": 39780.0,
+      "current_liabilities": 26450.0,
+      "inventory": null,
+      "gross_profit": 33890.0
+    },
+    {
+      "period": "Mar 2020",
+      "revenue": 90791.0,
+      "net_profit": 16594.0,
+      "operating_profit": 21450.0,
+      "operating_cash_flow": 18670.0,
+      "total_assets": 78340.0,
+      "total_liabilities": 28910.0,
+      "total_equity": 49430.0,
+      "total_debt": 1560.0,
+      "current_assets": 35890.0,
+      "current_liabilities": 22340.0,
+      "inventory": null,
+      "gross_profit": 29560.0
+    }
+  ],
+  "raw_tables": {
+    "P&L": {
+      "headers": ["Mar 2024", "Mar 2023", "Mar 2022", "Mar 2021", "Mar 2020"],
+      "rows": {
+        "Sales": [153670.0, 146767.0, 121641.0, 100472.0, 90791.0],
+        "Operating Profit": [32890.0, 30120.0, 27450.0, 25120.0, 21450.0],
+        "OPM %": [21.4, 20.5, 22.6, 25.0, 23.6],
+        "Other Income": [4230.0, 3560.0, 2890.0, 2670.0, 2340.0],
+        "Interest": [890.0, 780.0, 670.0, 580.0, 490.0],
+        "Depreciation": [5670.0, 5120.0, 4560.0, 3980.0, 3450.0],
+        "Profit before tax": [30560.0, 27780.0, 25110.0, 23230.0, 19850.0],
+        "Tax %": [25.8, 25.4, 25.2, 24.9, 25.3],
+        "Net Profit": [26233.0, 24108.0, 22110.0, 19351.0, 16594.0],
+        "EPS in Rs": [63.4, 58.3, 53.5, 46.8, 38.9]
+      }
+    },
+    "BalanceSheet": {
+      "headers": ["Mar 2024", "Mar 2023", "Mar 2022", "Mar 2021", "Mar 2020"],
+      "rows": {
+        "Share Capital": [2083.0, 2084.0, 2117.0, 2122.0, 2122.0],
+        "Reserves": [62367.0, 58246.0, 54103.0, 50658.0, 47308.0],
+        "Borrowings": [3240.0, 2890.0, 2450.0, 1980.0, 1560.0],
+        "Total Current Liabilities": [36780.0, 33450.0, 30120.0, 26450.0, 22340.0],
+        "Total Assets": [112340.0, 104560.0, 95670.0, 86450.0, 78340.0],
+        "Total Current Assets": [52340.0, 48670.0, 43560.0, 39780.0, 35890.0],
+        "Fixed Assets": [28670.0, 26340.0, 24120.0, 21890.0, 19670.0]
+      }
+    },
+    "CashFlow": {
+      "headers": ["Mar 2024", "Mar 2023", "Mar 2022", "Mar 2021", "Mar 2020"],
+      "rows": {
+        "Cash from Operating Activity": [28450.0, 25670.0, 22890.0, 21340.0, 18670.0],
+        "Cash from Investing Activity": [-12340.0, -10560.0, -9780.0, -8450.0, -7890.0],
+        "Cash from Financing Activity": [-15670.0, -14230.0, -12890.0, -11670.0, -10340.0],
+        "Net Cash Flow": [440.0, 880.0, 220.0, 1220.0, 440.0]
+      }
+    }
+  },
+  "filings": [
+    {
+      "date": "2024-04-18",
+      "title": "Infosys Q4 FY2024 Results - Revenue ₹37,923 Cr, beats estimates; guides FY2025 revenue growth 1-3%",
+      "category": "Financial Results",
+      "content_text": "Infosys reported Q4 FY2024 consolidated revenue of ₹37,923 crore, up 1.4% QoQ in constant currency. Net profit was ₹7,969 crore, up 29.8% YoY (aided by lower tax rate in prior year base). Operating margin was 21.0%. Large deal TCV was $3.9 billion in Q4 and $17.7 billion for FY2024. FY2025 revenue growth guidance: 1-3% in constant currency. Operating margin guidance: 20-22%. The cautious guidance reflects continued uncertainty in discretionary spending, particularly in financial services. Attrition at 12.4%.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    },
+    {
+      "date": "2024-01-12",
+      "title": "Infosys Q3 FY2024 Results - Margin beats, Raises lower end of guidance",
+      "category": "Financial Results",
+      "content_text": "Infosys Q3 FY2024 revenue was ₹38,821 crore, up 1.6% YoY in constant currency. Net profit at ₹6,106 crore was impacted by higher tax provisions. Operating margin at 20.5% beat estimates due to cost optimization. Large deal wins at $7.7 billion TCV. The company raised the lower end of FY2024 revenue growth guidance to 1.5-2.0% from 1.0-2.5% earlier. Headcount declined by 6,000+ employees in Q3, reflecting cautious hiring amid uncertain demand. Digital revenue contribution reached 63.8% of total.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    },
+    {
+      "date": "2024-03-01",
+      "title": "Infosys appoints new CFO; announces organizational restructuring",
+      "category": "Corporate Announcement",
+      "content_text": "Infosys announced the appointment of Jayesh Sanghrajka as the new Chief Financial Officer, effective April 1, 2024. The company also announced a restructuring of its delivery organization into five industry-focused mega-verticals: Financial Services, Telecom & Hi-Tech, Manufacturing, Retail & CPG, and Energy & Utilities. The restructuring aims to improve client proximity and cross-selling opportunities. Additionally, Infosys announced the creation of a dedicated AI-first unit called 'Infosys Topaz' to drive enterprise AI adoption.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    },
+    {
+      "date": "2024-02-05",
+      "title": "Infosys settles US tax dispute, pays $12.8 million penalty",
+      "category": "Regulatory",
+      "content_text": "Infosys disclosed that it has settled a long-standing tax dispute with the US Internal Revenue Service (IRS) by paying a penalty of $12.8 million. The dispute was related to transfer pricing adjustments for FY2013-FY2016. The settlement amount was classified as an exceptional item in Q4 FY2024 results. The company stated that the settlement has no material impact on its financial position or ongoing operations.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    },
+    {
+      "date": "2023-11-15",
+      "title": "Infosys and NVIDIA partner to accelerate AI-led enterprise transformation",
+      "category": "Corporate Announcement",
+      "content_text": "Infosys announced a collaboration with NVIDIA to develop AI-powered solutions for enterprises using NVIDIA's AI Enterprise platform and Infosys Topaz. The partnership focuses on generative AI use cases in telecom, healthcare, and financial services. Infosys plans to train 10,000 developers on NVIDIA technologies. The companies will establish joint innovation labs in Bangalore and Santa Clara. Initial projects include AI-driven network optimization for telecom clients and drug discovery acceleration for pharma companies.",
+      "url": "https://www.nseindia.com/",
+      "source": "nse"
+    }
+  ],
+  "news": [
+    {
+      "title": "Infosys Q4 results: Net profit rises 30%, but cautious FY2025 guidance dampens sentiment",
+      "description": "Infosys reported strong Q4 numbers but guided for only 1-3% growth in FY2025, below market expectations of 3-5%.",
+      "source_name": "Economic Times",
+      "published_at": "2024-04-18T15:00:00Z",
+      "content": "Infosys posted Q4 FY2024 net profit of ₹7,969 crore, up 29.8% YoY. Revenue was ₹37,923 crore. However, the company's FY2025 guidance of 1-3% constant currency growth disappointed the market, with the stock falling 3.5% post-results. CEO Salil Parekh cited continued weakness in discretionary spending as the primary headwind. Large deal TCV for FY2024 was $17.7 billion. The company expects margin recovery through project Maximus cost optimization and AI-led delivery efficiencies.",
+      "url": "https://economictimes.indiatimes.com/infosys-q4"
+    },
+    {
+      "title": "Infosys CEO Salil Parekh on AI: 'GenAI will create more revenue than it displaces'",
+      "description": "In an exclusive interview, Infosys CEO Salil Parekh shared his views on generative AI's impact on the IT services industry.",
+      "source_name": "Moneycontrol",
+      "published_at": "2024-03-10T10:30:00Z",
+      "content": "Infosys CEO Salil Parekh stated that generative AI will be a net positive for IT services companies, creating more revenue opportunities than it displaces. Infosys has already deployed AI-powered solutions across 120+ enterprise clients through Infosys Topaz. The company sees AI services contributing 5-7% of incremental revenue within 2 years. Key areas include AI-driven testing automation (reducing effort by 40%), intelligent document processing, and personalized customer experience platforms. However, Parekh acknowledged that traditional application maintenance revenue could decline 10-15% due to AI automation.",
+      "url": "https://www.moneycontrol.com/infosys-ai"
+    },
+    {
+      "title": "Infosys headcount drops by 25,000 in FY2024 amid efficiency drive",
+      "description": "Infosys saw a significant reduction in headcount during FY2024 as the company optimized its workforce amid slowing growth.",
+      "source_name": "Business Standard",
+      "published_at": "2024-04-20T08:00:00Z",
+      "content": "Infosys total headcount fell by approximately 25,994 employees in FY2024 to 3,17,240 from 3,43,234 in FY2023. This represents the first significant annual headcount decline in over a decade. The reduction was driven by reduced hiring, natural attrition at 12.4%, and targeted layoffs in non-performing areas. Despite the reduction, revenue per employee improved by 8.2%. Infosys expects to resume net hiring in H2 FY2025 as demand improves. The company utilized freshers from its training pool to fill attrition gaps rather than lateral hiring.",
+      "url": "https://www.business-standard.com/infosys-headcount"
+    },
+    {
+      "title": "Infosys Topaz drives $2 billion in AI deal pipeline",
+      "description": "Infosys's AI-first platform Topaz has generated a deal pipeline of over $2 billion across industries.",
+      "source_name": "Livemint",
+      "published_at": "2024-02-22T11:00:00Z",
+      "content": "Infosys disclosed that its AI and automation platform Infosys Topaz has created a deal pipeline worth over $2 billion. The platform integrates generative AI, computer vision, and reinforcement learning for enterprise use cases. Infosys has implemented 280+ AI projects across BFSI, manufacturing, and retail. Average productivity improvement from AI deployment is 25-30%. Key wins include an AI transformation deal with a major European bank worth $450 million over 5 years. Infosys has also launched AI-first pricing models that charge based on business outcomes rather than headcount.",
+      "url": "https://www.livemint.com/infosys-topaz"
+    },
+    {
+      "title": "Infosys margin outlook: Cost optimization to offset revenue headwinds",
+      "description": "Analysts expect Infosys to maintain margins at 20-22% through cost levers despite revenue growth moderation.",
+      "source_name": "NDTV Profit",
+      "published_at": "2024-01-20T14:00:00Z",
+      "content": "Despite modest revenue growth guidance of 1-3% for FY2025, analysts expect Infosys to protect operating margins at 20-22% through project Maximus — the company's comprehensive cost optimization program. Key levers include subcontracting cost reduction (currently 12% of revenue), pyramid optimization with higher utilization of freshers, automation of delivery processes, and rationalization of real estate costs. Operating margin improved 90 bps in 9M FY2024 to 21.0% vs 20.1% in 9M FY2023. However, wage hikes and potential visa cost increases could offset some gains.",
+      "url": "https://www.ndtvprofit.com/infosys-margin"
+    }
+  ]
+}
